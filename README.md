@@ -81,9 +81,9 @@ The `draw_chessboard` function visualizes the placement of queens on the chessbo
 
 #### Average Fitness Diagram
 
-![Average Fitness Diagram](average_fitness.png)
+<img src="average_fitness.png" width="600">
 
 #### Visualized Solved Problem
 
-![Chessboard with Queens](solved_problem.png)
+<img src="solved_problem.png" width="400">
 
